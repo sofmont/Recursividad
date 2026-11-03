@@ -1,0 +1,12 @@
+REQUISITOS: Visual Studio 2022 con la carga de trabajo "Desarrollo de escritorio de .NET" y SDK .NET 8.
+
+CÓMO ABRIR
+1. Doble clic en Recursividad.sln
+2. Clic derecho en el proyecto que quieras ejecutar > "Establecer como proyecto de inicio"
+3. F5 para ejecutar
+
+PROYECTOS
+- Tarea22_Catalogo: Factorial, Fibonacci, Hanoi, Suma de arreglo y Búsqueda lineal (iterativo vs recursivo, con traza de la pila).
+- Tarea23_HanoiLaberinto: Hanoi animado, laberinto con backtracking y pestaña de mediciones.
+
+Si usas .NET 6 o 7, cambia <TargetFramework> en el .csproj a net6.0-windows o net7.0-windows.
